@@ -17,3 +17,7 @@ h1 , h3 {
 table{
     color: rgb(152, 125, 154);
 }
+table{
+    border: 1px;
+    border-color: rgb(187, 154, 177);
+}
