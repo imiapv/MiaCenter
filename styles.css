@@ -5,9 +5,15 @@ body{
     background-color: rgb(254, 249, 242);
 }
 hr{
-    border-color: rgb(120, 157, 188);
+    border-color: rgb(201, 233, 210);
     border-style: none;
     border-top-style: dotted;
     width: 7%;
     border-width: 10px;
+}
+h1 , h3 {
+    color: rgb(120, 157, 188);
+}
+table{
+    color: rgb(152, 125, 154);
 }
