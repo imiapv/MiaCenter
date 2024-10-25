@@ -1,0 +1,13 @@
+img{
+    width: 200px;
+}
+body{
+    background-color: rgb(254, 249, 242);
+}
+hr{
+    border-color: rgb(120, 157, 188);
+    border-style: none;
+    border-top-style: dotted;
+    width: 7%;
+    border-width: 10px;
+}
